@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Nick Cipriano
+# 👋 Hey, I'm Nick 
 
 I'm a practical dev building tools and apps with Python and JavaScript. I focus on efficiency, clarity, and clean design.
 
